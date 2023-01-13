@@ -57,16 +57,6 @@
       ]
     },
     {
-      "projectName": "MagTag - Cat Fed Clock",
-      "projectImage": "https://learn.adafruit.com/assets/98591",
-      "description": "Never let your cat fool you into an extra meal again.",
-      "bundleLink": "https://learn.adafruit.com/pages/21203/elements/3079772/download?type=zip",
-      "learnGuideLink": "https://learn.adafruit.com/magtag-cat-feeder-clock/code-the-magtag-cat-fed-clock",
-      "compatibility": [
-          "esp32-s2"
-      ]
-    },
-    {
       "projectName": "MagTag - Hello World!",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/210/medium640mp4/Simpletest.mp4?1608062312",
       "description": "Press buttons on your MagTag to light it up and each play a different tone on each press.",
@@ -76,27 +66,17 @@
           "esp32-s2"
       ]
     },
+    
     {
-      "projectName": "MagTag - Showerthoughts and Quotes",
-      "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/210/medium640mp4/Simpletest.mp4?1608062312",
-      "description": "Use your MagTag as a Quote board or Reddit r/Showerthoughts display.",
-      "bundleLink": "https://learn.adafruit.com/pages/20989/elements/3078518/download?type=zip",
-      "learnGuideLink": "https://learn.adafruit.com/magtag-showerthoughts/code-the-magtag-quotes",
-      "compatibility": [
-          "esp32-s2"
-      ]
-    },
-    {
-      "projectName": "MagTag - Progress Displays",
-      "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/190/medium640/year_progress_new_cropped.jpg?1606865861",
-      "description": "Show progress with MagTag.",
-      "bundleLink": "https://learn.adafruit.com/pages/20959/elements/3078319/download?type=zip",
-      "learnGuideLink": "https://learn.adafruit.com/magtag-progress-displays/year-progress",
+      "projectName": "MagTag - Language Flashcards",
+      "projectImage": "https://learn.adafruit.com/assets/98193",
+      "description": "Crush your exams with a custom e-paper memorization tool.",
+      "bundleLink": "https://learn.adafruit.com/pages/21313/elements/3081119/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/magtag-flashcards/simple-flashcards",
       "compatibility": [
           "esp32-s2"
       ]
     }
-    
     
   ]
 }
