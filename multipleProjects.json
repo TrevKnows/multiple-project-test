@@ -36,7 +36,7 @@
       ]
     },
     {
-      "projectName": "MagTag - Timer ",
+      "projectName": "Timer for MagTag",
       "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/218/medium640/IMG_4416.jpg?1608319486",
       "description": "Build a handy kitchen timer with the Adafruit MagTag",
       "bundleLink": "https://learn.adafruit.com/pages/21242/elements/3080088/download?type=zip",
@@ -44,7 +44,59 @@
       "compatibility": [
           "esp32-s2"
       ]
+    },
+    
+    {
+      "projectName": "MagTag - Dishwasher Status",
+      "projectImage": "https://learn.adafruit.com/assets/98591",
+      "description": "Are they dirty? Or are they clean? Let MagTag help remind you.",
+      "bundleLink": "https://learn.adafruit.com/pages/21388/elements/3081386/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/magtag-dishwasher-status/wake-on-flip",
+      "compatibility": [
+          "esp32-s2"
+      ]
+    },
+    {
+      "projectName": "MagTag - Cat Fed Clock",
+      "projectImage": "https://learn.adafruit.com/assets/98591",
+      "description": "Never let your cat fool you into an extra meal again.",
+      "bundleLink": "https://learn.adafruit.com/pages/21203/elements/3079772/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/magtag-cat-feeder-clock/code-the-magtag-cat-fed-clock",
+      "compatibility": [
+          "esp32-s2"
+      ]
+    },
+    {
+      "projectName": "MagTag - Hello World!",
+      "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/210/medium640mp4/Simpletest.mp4?1608062312",
+      "description": "Press buttons on your MagTag to light it up and each play a different tone on each press.",
+      "bundleLink": "https://learn.adafruit.com/pages/21189/elements/3079706/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/creating-magtag-projects-with-circuitpython/code-examples",
+      "compatibility": [
+          "esp32-s2"
+      ]
+    },
+    {
+      "projectName": "MagTag - Showerthoughts and Quotes",
+      "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/210/medium640mp4/Simpletest.mp4?1608062312",
+      "description": "Use your MagTag as a Quote board or Reddit r/Showerthoughts display.",
+      "bundleLink": "https://learn.adafruit.com/pages/20989/elements/3078518/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/magtag-showerthoughts/code-the-magtag-quotes",
+      "compatibility": [
+          "esp32-s2"
+      ]
+    },
+    {
+      "projectName": "MagTag - Progress Displays",
+      "projectImage": "https://cdn-learn.adafruit.com/guides/cropped_images/000/003/190/medium640/year_progress_new_cropped.jpg?1606865861",
+      "description": "Show progress with MagTag.",
+      "bundleLink": "https://learn.adafruit.com/pages/20959/elements/3078319/download?type=zip",
+      "learnGuideLink": "https://learn.adafruit.com/magtag-progress-displays/year-progress",
+      "compatibility": [
+          "esp32-s2"
+      ]
     }
+    
     
   ]
 }
